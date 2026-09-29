@@ -1,0 +1,20 @@
+source/_integrations/switchbot.markdown
+  s_f798a7ab97d56e::t_041bd996836dd4 157
+  s_f798a7ab97d56e::t_c7656e55f0e5ea 653-666
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f07b7b754be30b332c34229c790963d59fcc5a07",
+  "prompts": {},
+  "sessions": {
+    "s_f798a7ab97d56e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f447d633-b29b-4785-a274-0f4b4d7bdc81",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}
