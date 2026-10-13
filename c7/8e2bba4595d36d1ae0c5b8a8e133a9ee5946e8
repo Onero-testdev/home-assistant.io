@@ -1,0 +1,19 @@
+source/_integrations/switchbot.markdown
+  s_e4582bfbf454bb::t_0638a5c0a93a21 675,677,679,681-690
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c78e2bba4595d36d1ae0c5b8a8e133a9ee5946e8",
+  "prompts": {},
+  "sessions": {
+    "s_e4582bfbf454bb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a017f6-f459-7de3-85d4-67a29c341c98",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Fan Kai <fankai@onero.com>"
+    }
+  }
+}
