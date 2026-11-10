@@ -166,6 +166,9 @@ For instructions on how to obtain the encryption key, see README in [PySwitchbot
 - Lock Vision
 - Lock Vision Pro
 - Lock Pro Wifi
+- UWB Lock
+
+UWB Lock supports Bluetooth lock control, battery level, and door state. The integration does not expose UWB distance measurements or UWB configuration entities. Use the SwitchBot app to manage the device's UWB features.
 
 ### Humidifiers
 
